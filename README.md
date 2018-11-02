@@ -11,10 +11,9 @@ then the maze is deemed unsolvable.
 # Key Learnings
 * Stacks
 
-# Installation
+# Installation for Visual Studio
 1. Download the zip of this project and extract to desired directory
-2. Set up basic Java "Hello World" project
-3. Overwrite project src folder with the this project's src folder
+2. Open project solution file in Visual Studio
 
 # Project Status
 Complete
